@@ -33,6 +33,7 @@ ul li {
     border-radius: 10px;
     cursor: pointer;
     box-shadow: 5px 5px 10px rgb(0,0,0,.5);
+    transition: .3s ;
 }
 .top:hover{
     background-color: white;
